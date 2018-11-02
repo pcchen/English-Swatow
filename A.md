@@ -1,4 +1,4 @@
-a, che̍k-kâi; che̍k-chiah; &c.
+* a, che̍k-kâi; che̍k-chiah; &c.
 * aback, pùe-ãu. taken aback at meeting one, ngõ--tie̍h uak--chē-kiè.
 * abacus, sǹg-pûaⁿ. to work the, kiah-sǹg-pûaⁿ; khà-sǹg-pûaⁿ.
 * abaft, the foremast, thâu-ûi-ãu.
