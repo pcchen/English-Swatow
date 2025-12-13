@@ -1,0 +1,11 @@
+site_name: English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow
+
+site_url: https://pcchen.github.io/English-Swatow/
+
+
+theme:
+  name: material
+  font: false
+
+extra_css:
+  - stylesheets/extra.css

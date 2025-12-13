@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "TASA Orbiter";
+    src: url("../assets/fonts/TASAOrbiter-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  :root {
+    --md-text-font: "TASA Orbiter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
